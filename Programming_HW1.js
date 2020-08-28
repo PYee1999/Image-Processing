@@ -103,17 +103,6 @@ function blur(pic) {
   return image;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 // TESTING
 test('removeBlueAndGreen function definition is correct', function() {
   const white = lib220.createImage(10, 10, [1,1,1]);
